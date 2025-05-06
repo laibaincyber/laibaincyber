@@ -13,7 +13,7 @@ GRC Enthusiast by heart   Creative mind, always adding a unique twist to everyth
 
 ## Tech Stack:
 
-### rogramming & Tools:
+### Programming & Tools:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
