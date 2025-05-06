@@ -2,7 +2,7 @@
 Software Engineer by degree  
 Information Security Engineer in action  
 GRC Enthusiast by heart
-Creative mind, always adding a unique twist to everything I build!
+
 
 
 ## Socials:
