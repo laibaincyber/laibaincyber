@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Laiba Waseem</h1>
-Software Engineer by degree  
-Information Security Engineer in action  
-GRC Enthusiast by heart
 
+<p align="center">
+  <strong>Software Engineer by degree</strong><br>
+  <strong>Information Security Engineer in action</strong><br>
+  <strong>GRC Enthusiast at heart</strong>
+</p>
 
 
 ## Socials
