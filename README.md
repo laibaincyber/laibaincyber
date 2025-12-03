@@ -30,7 +30,6 @@
 ###  Frameworks & Standards
 ![NIST](https://img.shields.io/badge/NIST-202124?style=for-the-badge&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-0078D4?style=for-the-badge&logoColor=white)
-![ISO 42001](https://img.shields.io/badge/ISO%2FIEC%2027001-0078D4?style=for-the-badge&logoColor=white)
 ![SOC 2](https://img.shields.io/badge/SOC%202-00A3E0?style=for-the-badge&logoColor=white)
 
 
